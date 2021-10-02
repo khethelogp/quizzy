@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.7e7af189.chunk.js",
-    "main.js.map": "/static/js/main.7e7af189.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.80250f7f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.80250f7f.js.map",
-    "static/js/2.73d98fd0.chunk.js": "/static/js/2.73d98fd0.chunk.js",
-    "static/js/2.73d98fd0.chunk.js.map": "/static/js/2.73d98fd0.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.73d98fd0.chunk.js.LICENSE.txt": "/static/js/2.73d98fd0.chunk.js.LICENSE.txt",
-    "static/media/stephan-seeber.73705809.jpg": "/static/media/stephan-seeber.73705809.jpg"
+    "main.js": "/quizzy/static/js/main.7e7af189.chunk.js",
+    "main.js.map": "/quizzy/static/js/main.7e7af189.chunk.js.map",
+    "runtime-main.js": "/quizzy/static/js/runtime-main.334da1dc.js",
+    "runtime-main.js.map": "/quizzy/static/js/runtime-main.334da1dc.js.map",
+    "static/js/2.68020a7d.chunk.js": "/quizzy/static/js/2.68020a7d.chunk.js",
+    "static/js/2.68020a7d.chunk.js.map": "/quizzy/static/js/2.68020a7d.chunk.js.map",
+    "index.html": "/quizzy/index.html",
+    "static/js/2.68020a7d.chunk.js.LICENSE.txt": "/quizzy/static/js/2.68020a7d.chunk.js.LICENSE.txt",
+    "static/media/stephan-seeber.73705809.jpg": "/quizzy/static/media/stephan-seeber.73705809.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.80250f7f.js",
-    "static/js/2.73d98fd0.chunk.js",
+    "static/js/runtime-main.334da1dc.js",
+    "static/js/2.68020a7d.chunk.js",
     "static/js/main.7e7af189.chunk.js"
   ]
 }
